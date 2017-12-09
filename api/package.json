@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "hue-api",
+  "version": "0.0.1",
+  "description": "Another Philips Hue API",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Eirik Birkeland",
+  "license": "ISC",
+  "dependencies": {
+    "colorname-to-xy": "0.0.2",
+    "hex-to-xy": "0.0.2",
+    "is-hexcolor": "^1.0.0",
+    "lodash": "^4.17.4"
+  }
+}

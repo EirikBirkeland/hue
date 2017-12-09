@@ -1,0 +1,21 @@
+{
+  "name": "hue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@q42philips/hue-color-converter": "^1.0.0",
+    "chalk": "^2.1.0",
+    "colorname-to-xy": "0.0.2",
+    "colornames": "^1.1.1",
+    "commander": "^2.11.0",
+    "hex-rgb": "^1.0.0",
+    "lodash": "^4.17.4",
+    "request": "^2.83.0"
+  }
+}
